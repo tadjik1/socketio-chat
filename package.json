@@ -33,7 +33,7 @@
     "passport-github": "^1.1.0",
     "passport-local": "^1.0.0",
     "passport-vkontakte": "^0.3.2",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "puppeteer": "^1.15.0",
     "request-promise": "^4.2.4",
     "socket.io": "^2.2.0",
